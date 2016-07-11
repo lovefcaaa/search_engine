@@ -1,3 +1,5 @@
+#! /usr/bin/python
+# -*- coding: utf-8 -*-
 """
 Building a search engine
 http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
